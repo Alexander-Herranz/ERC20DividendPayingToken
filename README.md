@@ -22,3 +22,4 @@ For that reason, SafeMath is not required any longer for uint type.
 
 #### Original code commented (by the moment)
 In order to make it easier to compare the current code, with the original one, I let the original code commented over the current line code.
+I will remove the comments in the future to keep a clean codebase.
